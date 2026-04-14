@@ -1,0 +1,10 @@
+{
+  "name": "com.mcdudeman.unityquicktools",
+  "version": "1.0.0",
+  "displayName": "McDudeMan's Quick Tools",
+  "description": "Handy shortcuts for alignment and shader assignment.",
+  "unity": "2019.1",
+  "author": {
+    "name": "McDudeMan"
+  }
+}
